@@ -65,7 +65,7 @@ namespace GRA.Service.Services
             var min = lstProducers.Where(x => x.Interval > 0).Select(p => p).ToList();
 
             intervalDTO.Max.AddRange(max);
-            intervalDTO.Min.AddRange(min);
+            intervalDTO.Min.AddRange(min.Where(x => x.Interval == min.Min(t => t.Interval)).Select(p => p).ToList());
 
             return intervalDTO;
         }
