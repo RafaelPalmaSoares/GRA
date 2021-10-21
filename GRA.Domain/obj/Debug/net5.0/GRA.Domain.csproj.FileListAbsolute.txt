@@ -1,0 +1,12 @@
+C:\Users\rafae\source\repos\GRA\GRA.Domain\bin\Debug\net5.0\GRA.Domain.deps.json
+C:\Users\rafae\source\repos\GRA\GRA.Domain\bin\Debug\net5.0\GRA.Domain.dll
+C:\Users\rafae\source\repos\GRA\GRA.Domain\bin\Debug\net5.0\ref\GRA.Domain.dll
+C:\Users\rafae\source\repos\GRA\GRA.Domain\bin\Debug\net5.0\GRA.Domain.pdb
+C:\Users\rafae\source\repos\GRA\GRA.Domain\obj\Debug\net5.0\GRA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\source\repos\GRA\GRA.Domain\obj\Debug\net5.0\GRA.Domain.AssemblyInfoInputs.cache
+C:\Users\rafae\source\repos\GRA\GRA.Domain\obj\Debug\net5.0\GRA.Domain.AssemblyInfo.cs
+C:\Users\rafae\source\repos\GRA\GRA.Domain\obj\Debug\net5.0\GRA.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\GRA\GRA.Domain\obj\Debug\net5.0\GRA.Domain.dll
+C:\Users\rafae\source\repos\GRA\GRA.Domain\obj\Debug\net5.0\ref\GRA.Domain.dll
+C:\Users\rafae\source\repos\GRA\GRA.Domain\obj\Debug\net5.0\GRA.Domain.pdb
+C:\Users\rafae\source\repos\GRA\GRA.Domain\obj\Debug\net5.0\GRA.Domain.csprojAssemblyReference.cache
