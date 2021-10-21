@@ -43,6 +43,7 @@ namespace GRA.Service.Services
             using (var csv = new CsvReader(fs))
             {
                 csv.Configuration.RegisterClassMap<MovieMap>();
+                csv.Configuration.HeaderValidated = null;
                 records = csv.GetRecords<Movie>().ToList();
             }
 
